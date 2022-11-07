@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dano-interview/static/css/main.e6c13ad2.css",
+    "main.js": "/dano-interview/static/js/main.27588c70.js",
+    "static/js/787.366d6e7f.chunk.js": "/dano-interview/static/js/787.366d6e7f.chunk.js",
+    "index.html": "/dano-interview/index.html",
+    "main.e6c13ad2.css.map": "/dano-interview/static/css/main.e6c13ad2.css.map",
+    "main.27588c70.js.map": "/dano-interview/static/js/main.27588c70.js.map",
+    "787.366d6e7f.chunk.js.map": "/dano-interview/static/js/787.366d6e7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.27588c70.js"
+  ]
+}
