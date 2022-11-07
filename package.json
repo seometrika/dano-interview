@@ -1,7 +1,7 @@
 {
   "name": "dano-interview",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/dano-interview",
+  "homepage": "https://preyai.github.io/dano-interview",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
