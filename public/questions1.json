@@ -1,36 +1,28 @@
 {
-    "title": "Внутренние интерьерные отделочные работы в помещениях с нормальным влажностным режимом",
+    "title": "гипсовой штукатуркой",
     "data": [
-        {
-            "label": "Тип основания",
-            "variants": [
-                {
-                    "label": "Гипсовая штукатурка",
-                    "result": [
-                        "Прогрунтуйте составом Danogips Grunt Универсальный или Danogips Grunt Концентрат с разбавлением 1:3"
-                    ]
-                }
-            ]
-        },
         {
             "label": "Какая величина перепадов на плоскости?",
             "variants": [
                 {
                     "label": "До 6 мм",
                     "result": [
-                        "Выровняйте поверхность сухой полимерной шпатлевкой Danogips Jet 5"
+                        "Прогрунтуйте составом <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogrunt.html'>Danogips Grunt Универсальный</a> или <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogruntconcentrat.html'>Danogips Grunt Концентрат</a> с разбавлением 1:3",
+                        "Выровняйте поверхность сухой полимерной шпатлевкой <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_polimernaya/danojet5.html'>Danogips Jet 5</a>"
                     ]
                 },
                 {
                     "label": "Более 6 мм",
                     "result": [
+                        "Прогрунтуйте составом <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogrunt.html'>Danogips Grunt Универсальный</a> или <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogruntconcentrat.html'>Danogips Grunt Концентрат</a> с разбавлением 1:3",
                         "Используйте гипсовые составы"
                     ]
                 },
                 {
                     "label": "Менее 3 мм",
                     "result": [
-                        "Нанесите базовый слой сухой полимерной шпатлевки Danogips Jet 3, Jet 9 или Jet 5"
+                        "Прогрунтуйте составом <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogrunt.html'>Danogips Grunt Универсальный</a> или <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogruntconcentrat.html'>Danogips Grunt Концентрат</a> с разбавлением 1:3",
+                        "Нанесите базовый слой сухой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_polimernaya/shpatlevka_polimernaya_danogips_jet_3.html'>Danogips Jet 3</a>, <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_polimernaya/danojet9.html'>Jet 9</a> или <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_polimernaya/danojet5.html'>Jet 5</a>"
                     ]
                 }
             ]
@@ -41,7 +33,7 @@
                 {
                     "label": "Да",
                     "result": [
-                        "Прогрунтуйте составом Danogips Grunt Универсальный или Danogips Grunt Концентрат с разбавлением 1:3"
+                        "Прогрунтуйте составом <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogrunt.html'>Danogips Grunt Универсальный</a> или <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogruntconcentrat.html'>Danogips Grunt Концентрат</a> с разбавлением 1:3"
                     ]
                 },
                 {
@@ -56,13 +48,13 @@
                     "label": "Да, буду клеить на клей",
                     "result": [
                         "Наклейте стеклохолст",
-                        "Нанесите изолирующий слой грунт-краски Danogips FirstCoat для предотвращения размокания клея"
+                        "Нанесите изолирующий слой грунт-краски <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogips_firstcoat.html'>Danogips FirstCoat</a> для предотвращения размокания клея"
                     ]
                 },
                 {
                     "label": "Да, буду клеить на шпатлевку",
                     "result": [
-                        "Используйте стеклохолст Danogips в сочетании с готовыми полимерными шпатлевками Danogips SuperFinish или ProSpray"
+                        "Используйте стеклохолст Danogips в сочетании с готовыми полимерными шпатлевками <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/super_finish.html'>Danogips SuperFinish</a> или <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/prospray.html'>ProSpray</a> "
                     ]
                 },
                 {
@@ -73,7 +65,7 @@
                             {
                                 "label": "Да",
                                 "result": [
-                                    "Нанесите один слой грунт-краски Danogips FirstCoat"
+                                    "Нанесите один слой грунт-краски <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogips_firstcoat.html'>Danogips FirstCoat</a>"
                                 ]
                             },
                             {
@@ -95,24 +87,24 @@
                             {
                                 "label": "Матовая",
                                 "result": [
-                                    "Нанесите два слоя готовой полимерной шпатлевки Danogips Top, SuperFinish или ProFinish Grey",
-                                    "Прогрунтуйте составом Danogips Grunt Универсальный или Grunt Концентрат с разбавлением 1:3",
+                                    "Нанесите два слоя готовой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_finishing/danotop5.html'>Danogips Top</a>, SuperFinish или ProFinish Grey",
+                                    "Прогрунтуйте составом <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogrunt.html'>Danogips Grunt Универсальный</a> или <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogruntconcentrat.html'>Grunt Концентрат</a> с разбавлением 1:3",
                                     "Нанесите финишное покрытие"
                                 ]
                             },
                             {
                                 "label": "Полуглянец",
                                 "result": [
-                                    "Нанесите два слоя готовой полимерной шпатлевки Danogips SuperFinish, ProSpray или ProFinish Grey",
-                                    "Проведите дефектовку поверхности грунт-краской Danogips FirstCoat",
+                                    "Нанесите два слоя готовой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/super_finish.html'>Danogips SuperFinish</a>, <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/prospray.html'>ProSpray</a>  или ProFinish Grey",
+                                    "Проведите дефектовку поверхности грунт-краской <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogips_firstcoat.html'>Danogips FirstCoat</a>",
                                     "Нанесите финишное покрытие"
                                 ]
                             },
                             {
                                 "label": "Глянец",
                                 "result": [
-                                    "Нанесите два слоя готовой полимерной шпатлевки Danogips UltraFinish (абразив 320 и выше) или ProSpray",
-                                    "Проведите дефектовку поверхности грунт-краской Danogips FirstCoat",
+                                    "Нанесите два слоя готовой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/ultrafinish.html'>Danogips UltraFinish</a> (абразив 320 и выше) или <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/prospray.html'>ProSpray</a> ",
+                                    "Проведите дефектовку поверхности грунт-краской <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogips_firstcoat.html'>Danogips FirstCoat</a>",
                                     "Нанесите финишное покрытие"
                                 ]
                             }
@@ -127,32 +119,32 @@
                             {
                                 "label": "Лаковые/перламутровые покрытия",
                                 "result": [
-                                    "Нанесите два слоя готовой полимерной шпатлевки Danogips SuperFinish, UltraFinish или ProSpray",
-                                    "Проведите дефектовку поверхности грунт-краской Danogips FirstCoat",
+                                    "Нанесите два слоя готовой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/super_finish.html'>Danogips SuperFinish</a>, <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/ultrafinish.html'>Danogips UltraFinish</a> или <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/prospray.html'>ProSpray</a> ",
+                                    "Проведите дефектовку поверхности грунт-краской <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogips_firstcoat.html'>Danogips FirstCoat</a>",
                                     "Нанесите финишное покрытие"
                                 ]
                             },
                             {
                                 "label": "Декоративные покрытия с фракцией от 1 мм",
                                 "result": [
-                                    "Нанесите два слоя готовой полимерной шпатлевки Danogips Top или два слоя сухой полимерной шпатлевки Danogips Jet 9",
-                                    "Прогрунтуйте составом Danogips Grunt Универсальный или Grunt Концентрат с разбавлением 1:3",
+                                    "Нанесите два слоя готовой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_finishing/danotop5.html'>Danogips Top</a> или два слоя сухой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_polimernaya/danojet9.html'>Danogips Jet 9</a>",
+                                    "Прогрунтуйте составом <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogrunt.html'>Danogips Grunt Универсальный</a> или <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogruntconcentrat.html'>Grunt Концентрат</a> с разбавлением 1:3",
                                     "Нанесите финишное покрытие"
                                 ]
                             },
                             {
                                 "label": "Венецианская штукатурка",
                                 "result": [
-                                    "Нанесите два слоя готовой полимерной шпатлевки Danogips UltraFinish (абразив 320 и выше)",
-                                    "Проведите дефектовку поверхности грунт-краской Danogips FirstCoat",
+                                    "Нанесите два слоя готовой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/ultrafinish.html'>Danogips UltraFinish</a> (абразив 320 и выше)",
+                                    "Проведите дефектовку поверхности грунт-краской <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogips_firstcoat.html'>Danogips FirstCoat</a>",
                                     "Нанесите финишное покрытие"
                                 ]
                             },
                             {
                                 "label": "Декоративные покрытия с фракцией зерна от 1 мм (типа короед)",
                                 "result": [
-                                    "Нанесите два слоя готовой полимерной шпатлевки Danogips Top или два слоя сухой полимерной шпатлевки Danogips Jet 9",
-                                    "Прогрунтуйте составом Danogips Grunt Универсальный или Grunt Концентрат с разбавлением 1:3",
+                                    "Нанесите два слоя готовой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_finishing/danotop5.html'>Danogips Top</a> или два слоя сухой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_polimernaya/danojet9.html'>Danogips Jet 9</a>",
+                                    "Прогрунтуйте составом <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogrunt.html'>Danogips Grunt Универсальный</a> или <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogruntconcentrat.html'>Grunt Концентрат</a> с разбавлением 1:3",
                                     "Нанесите финишное покрытие"
                                 ]
                             }
@@ -167,24 +159,24 @@
                             {
                                 "label": "Толстые / Флизелин",
                                 "result": [
-                                    "Нанесите два слоя готовой полимерной шпатлевки Danogips Top или два слоя сухой полимерной шпатлевки Danogips Jet 9",
-                                    "Прогрунтуйте составом Danogips Grunt Универсальный или Grunt Концентрат с разбавлением 1:3",
+                                    "Нанесите два слоя готовой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_finishing/danotop5.html'>Danogips Top</a> или два слоя сухой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_polimernaya/danojet9.html'>Danogips Jet 9</a>",
+                                    "Прогрунтуйте составом <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogrunt.html'>Danogips Grunt Универсальный</a> или <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogruntconcentrat.html'>Grunt Концентрат</a> с разбавлением 1:3",
                                     "Нанесите финишное покрытие"
                                 ]
                             },
                             {
                                 "label": "Тонкие",
                                 "result": [
-                                    "Нанесите два слоя готовой полимерной шпатлевки Danogips SuperFinish или два слоя сухой полимерной шпатлевки Danogips Jet 10",
-                                    "Проведите дефектовку поверхности грунт-краской Danogips FirstCoat",
+                                    "Нанесите два слоя готовой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/super_finish.html'>Danogips SuperFinish</a> или два слоя сухой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/shpatlevka_polimernaya/shpatlevka_polimernaya_danogips_jet_10.html'>Danogips Jet 10</a>",
+                                    "Проведите дефектовку поверхности грунт-краской <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogips_firstcoat.html'>Danogips FirstCoat</a>",
                                     "Нанесите финишное покрытие"
                                 ]
                             },
                             {
                                 "label": "Металлические, тонкослойные, дизайнерские",
                                 "result": [
-                                    "Нанесите два слоя готовой полимерной шпатлевки Danogips SuperFinish или ProSpray",
-                                    "Проведите дефектовку поверхности грунт-краской Danogips FirstCoat",
+                                    "Нанесите два слоя готовой полимерной шпатлевки <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/super_finish.html'>Danogips SuperFinish</a> или <a target='_blank' href='https://www.danogips.ru/katalog/gotovye_shpatlevki_danogips/prospray.html'>ProSpray</a> ",
+                                    "Проведите дефектовку поверхности грунт-краской <a target='_blank' href='https://www.danogips.ru/katalog/gruntyi/danogips_firstcoat.html'>Danogips FirstCoat</a>",
                                     "Нанесите финишное покрытие"
                                 ]
                             }
